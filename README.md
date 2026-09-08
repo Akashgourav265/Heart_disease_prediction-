@@ -31,7 +31,7 @@ The final application allows users to enter patient information and receive a mo
 
 ## 🚀 Live Application
 
-The application is built using **Streamlit** and can be run locally.
+The application is built using **Streamlit** and can be easily run on your local machine.
 
 ```bash
 python -m streamlit run app.py
